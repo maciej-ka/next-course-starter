@@ -43,6 +43,7 @@ a {
   border-bottom: 1px solid #ccc;
   position: fixed;
   width: 100%;
+  min-height: 68px;
   top: 0;
   z-index: 10;
   display: flex;
